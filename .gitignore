@@ -14,6 +14,10 @@ api/src/images/output/
 # Model evaluation artifacts
 model_eval/.cache/
 model_eval/results/
+<<<<<<< HEAD
 images/
 .env
 .env.example
+=======
+images/
+>>>>>>> 1b420be (feat: add multi-model background replacement endpoint and utility functions)
