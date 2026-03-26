@@ -20,4 +20,5 @@ images/
 .env.example
 =======
 images/
->>>>>>> 1b420be (feat: add multi-model background replacement endpoint and utility functions)
+.env
+.env.example
