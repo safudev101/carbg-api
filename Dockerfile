@@ -23,4 +23,4 @@ COPY . /app
 EXPOSE 5000
 
 # Updated port to 5000 and ensured app-dir points to your src
-CMD ["python", "-m", "uvicorn", "main:app", "--host", "0.0.0.0", "--port", "5000", "--app-dir", "api/src"]
+CMD ["python", "-m", "uvicorn", "main:app", "--host", "0.0.0.0", "--port", "7860", "--app-dir", "api/src"]
